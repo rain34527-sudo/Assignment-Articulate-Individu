@@ -1,0 +1,109 @@
+{
+  "version": "3.107.35974.0",
+  "course_id": "5e48c3QZ0nE",
+  "title": "ASSIGNMET INDIVIDU",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "INTRO"
+    },
+    {
+      "title": "ELEMEN MULTIMEDIA MELALUI E-PEMBELAJARAN"
+    },
+    {
+      "title": "KEGUNAAN MULTIMEDIA"
+    },
+    {
+      "title": "KUIZ/PENILAIAN"
+    },
+    {
+      "title": "SLIDE AKHIR"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5eTKJ0OXEge",
+      "title": "MUKA DEPAN",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6Gv4Veb0QQT",
+      "title": "PEMULA",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "69YabMGK7Eg",
+      "title": "PENERANGAN",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6OuWwpOZPHA",
+      "title": "CONTOH-CONTOH",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6JVySTUDmLm",
+      "title": "MULTIMEDIA LINEAR DAN MULTIMEDIA INTERAKTIF",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6WGFnojIN23",
+      "title": "KEGUNAAN-KEGUNAAN MULTIMEDIA",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6egIjYwNzQf",
+      "title": "KEPENTINGAN MULTIMEDIA",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6osWoZbibPU",
+      "title": "MUKA KUIZ/PENILAIAN",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6P0TDobwBG8",
+      "title": "E-pembelajaran membolehkan pelajar mengikuti pembelajaran tanpa perlu hadir secara fizikal ke kelas.\n",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6AMSmph1uKh",
+      "title": "Apakah yang dimaksudkan dengan e-pembelajaran?",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "5fQKlQA5EAl",
+      "title": "E-pembelajaran ialah kaedah pembelajaran yang menggunakan __________ dan teknologi digital.",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "6cfJMrMZ7PN",
+      "title": "Suaikan Pernyataan di Bahagian A dengan Keterangan yang betul di Bahagian B.",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "6Ueg6NUCsV3",
+      "title": "Antara berikut, yang manakah merupakan ciri-ciri e-pembelajaran?\n",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "6jWeYJydZm9",
+      "title": "Quiz Results",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "6MF9bfTEOJi",
+      "title": "PENUTUP",
+      "scene_index": "5.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
